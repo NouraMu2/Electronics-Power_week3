@@ -4,9 +4,13 @@ design On off system using relay and transistor and pushbutton and other electro
 
 ## components. 
 1.push button 
+
 2.led
+
 3.resistor
+
 4.arduino uno 
+
 5.breadboard
 
 ## circuit diagram: 

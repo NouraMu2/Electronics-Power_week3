@@ -1,6 +1,6 @@
 # Electronics-Power_week3
 ## ON-OFF-System
-design On off system using relay and transistor and pushbutton and other electronics components with arduino when we pressed the button the LED will trun ON and when we pressed it again the LEd will turn OFF 
+design On off system using electronics components with arduino , when we pressed the button the LED will trun ON and when we pressed it again the LEd will turn OFF 
 
 ## components. 
 1.push button 
